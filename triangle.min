@@ -6,7 +6,6 @@ O2021
 (Uses Z=0.0 as cutting depth, set accordingly)
 (Variable VC1 sets the initial length)
 (Variable VC2 sets the number of iterations)
-(Kirill Ignatyev sciloj@gmail.com)
 
 G90 G17 G80 G40 G0 (Safe line)
 IF [VC1 EQ EMPTY] GOTO NNOVC (CHECK IF LENGTH IS UNDEF.)
