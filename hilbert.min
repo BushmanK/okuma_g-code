@@ -2,7 +2,6 @@
 O7024
 
 (Sample fractal subdivision, Hilbert space-filling curve)
-(Kirill Ignatyev sciloj@gmail.com)
 (Generates toolpath for center-cutting tool)
 (Tested on Okuma OSP-P300M control)
 
